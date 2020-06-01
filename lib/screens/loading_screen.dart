@@ -5,9 +5,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:clima/services/weather.dart';
 
-
-double latitude;
-double longitude;
+//
+//double latitude;
+//double longitude;
 
 class LoadingScreen extends StatefulWidget {
   @override
